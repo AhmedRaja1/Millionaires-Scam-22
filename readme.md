@@ -1,6 +1,6 @@
 ## DOM Array Methods
 
-Project to teach high order array methods and DOM manipulation
+Project to showcase the DOM Manipulation via Array methods
 
 ## Project Specifications
 
