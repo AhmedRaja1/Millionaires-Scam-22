@@ -11,4 +11,4 @@ Project to showcase the DOM Manipulation via Array methods
 - Use sort() to sort by wealth
 - Use reduce() to add all wealth
 
-Credits:
+Credits: https://github.com/bradtraversy/
